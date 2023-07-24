@@ -4,3 +4,9 @@
   
 ## Tech stack
   Node , Express, Mongodb , EJS , javaScript , html, css
+
+After reaching to the this preoject directory yo have to run this following command :
+  ```
+  $ npm install
+  $ nodemon index.js or npm start
+  
